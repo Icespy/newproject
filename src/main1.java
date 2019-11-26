@@ -15,9 +15,9 @@ public class main1 {
 		int[] even = new int[5];
 		String[] animal = {"pig","ann","cat","bird"};
 		
-		//for(int i=0 ; i<3 ; i++) {
-		//	System.out.println("================");
-		//}
+		for(int i=0 ; i<3 ; i++) {
+			System.out.println("================");
+		}
 		
 		/*for(int i=0 ; i<animal.length ; i++) {
 			System.out.println("Animal = "+ animal[i]);
